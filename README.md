@@ -13,7 +13,7 @@ With the growing competition in healthcare industries, businesses in the healthc
 
 ### Patient Repository
 
-In UnitCare ERP, you can create a patient file for any individual who receives your healthcare services. Save important information for every patient. With ERPNext's integrated system, all data will be accessible to everyone in one place.
+In UnitCare ERP, you can create a patient file for any individual who receives your healthcare services. Save important information for every patient. With UnitCare ERP's integrated system, all data will be accessible to everyone in one place.
 
 ### Healthcare Practitioners
 
