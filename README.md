@@ -1,10 +1,10 @@
-# UnitCare´s Healtcare Enterprise Resource Planning (ERP)
+# UnitCare´s Enterprise Resource Planning (ERP)
 
 ##### Enterprise resource planning (EPR) is the integrated management of main business processes, often in real time and mediated by software and technology.
 
 
 
-###### UntCare ERP For The Healthcare Industry
+###### UnitCare ERP System For The Healthcare Industry
 
 The healthcare market is estimated to reach a staggering $1 billion in the coming years. This is the direct result of increasing awareness about healthcare and its importance. With recent government initiatives to provide healthcare facilities to every nook and corner of the world, things look quite promising for the healthcare industry.
 
